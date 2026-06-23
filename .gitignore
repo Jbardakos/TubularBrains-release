@@ -1,0 +1,15 @@
+# LightWave SDK is proprietary (NewTek/LightWave) — not redistributed here.
+lwsdk2024.2/
+*.zip
+
+# macOS cruft
+.DS_Store
+**/.DS_Store
+
+# build scratch
+*.o
+
+# local editor/tooling settings
+.claude/
+.vscode/
+.idea/
